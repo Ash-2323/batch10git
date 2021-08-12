@@ -1,11 +1,10 @@
 package gitCommit;
 
-public class GitCommit {
+public class GItClass03Commit03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//i am getting dizzy somties and need to walk 100 miles
-		
+		System.out.println("this is the second commit file");
 
 	}
 
